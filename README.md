@@ -1,4 +1,4 @@
-このページは、XcodeのデフォルトのAppleWatchアプリをです。
+XcodeのデフォルトのAppleWatchアプリです。
 
 作成経過は以下に記載しています。
 
